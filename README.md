@@ -2,7 +2,7 @@
 
 ### What is this about?
 
-This repository is what hopefully grows into a collection of educational resources for computing in the life sciences with a focus on computational chemistry and drug discovery. I intend to add content based on a loose schedule, which means that contend is added as soon as I start to dive into something new that catches my interest
+This repository is what hopefully grows into a collection of educational resources for computing in the life sciences with a focus on computational chemistry and drug discovery. I intend to add content based on a loose schedule, which means that content is added as soon as I start to dive into something new that catches my interest
 
 The contents of this repository are coded in Python and presented using ipython notebooks. The idea is that one can work through a section of theory in the notebook and then directly start to experiment with ready-to-run code.
 
