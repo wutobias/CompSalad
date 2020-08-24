@@ -14,4 +14,6 @@ There is nothing special needed for installation, except Python and jupyter. If 
 
 then navigate to Nbextensions in an open jupyter-notebook session and check the box 'LaTeX environments for Jupyter'. That's it.
 
+### Contact
+
 Please let me know if you become aware of errors or have ideas for improvements. Contact via thuefner@health.ucsd.edu or via GitHub.
